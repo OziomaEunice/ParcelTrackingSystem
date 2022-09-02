@@ -1,4 +1,4 @@
-# ParcelTrackingSystem
+# Parcel Tracking System
 Building a parcel tracking system in C#
 
 
