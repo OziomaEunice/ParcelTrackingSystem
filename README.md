@@ -15,3 +15,7 @@ https://user-images.githubusercontent.com/75146656/188198852-547a422f-aeb4-41d4-
 
 
 In addition, every order made by the client will be registered in a .csv file.
+
+__________________________________________________
+
+<sub>_Designed by Ozioma E. Onwubiko_</sub>
