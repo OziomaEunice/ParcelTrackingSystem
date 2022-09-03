@@ -9,8 +9,6 @@ This is a project I did at uni and it was to create a system for parcels to be t
 
 Depending on the area and number of parcel, each will be allocated to a courier.
 
-https://user-images.githubusercontent.com/75146656/188198750-b8918611-5b75-4ec9-b722-978531c232af.mp4
-
 https://user-images.githubusercontent.com/75146656/188198852-547a422f-aeb4-41d4-a97b-cf4795d807d5.mp4
 
 
